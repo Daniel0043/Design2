@@ -14,3 +14,55 @@
 .rm-navbar-max {
     display: none;
 }
+
+html {
+    background-color: black;
+}
+
+body {
+    background-color: black;
+}
+.wrap-all {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: orange;
+    padding: 2px;
+}
+.my-navbar {
+    font-family: courier;
+
+}
+.rm-default {
+    background-color: orange;
+}
+.rm-desktop {
+    background-color: orange;
+}
+.row {
+    background-color: orange;
+    /*max-height: 100px;*/
+    font-family: courier;
+}
+.region-navbar {
+    background-color: black;
+    padding-left: 100px;
+}
+.region-main {
+    background-color: yellow;
+}
+.site-logo {
+    display: none;
+}
+.footer-column {
+    width: 33%; /* Make them the right width */
+    float: left;
+}
+.block {
+    font-family: times;
+}
+.author-byline {
+    font-size: 12px;
+}
+.region-footer {
+    padding-left: 20px;
+}
